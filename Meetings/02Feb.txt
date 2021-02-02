@@ -1,0 +1,23 @@
+## 02 Feb.
+Attenders: Yuchen, Ruting, Shin 
+Topics:
+    Finalize the austhetic appearance for our website before the end of the day (02/Feb).
+    Deciding the content of the pages.
+    Deciding on the priority pages that needed to be work on first.
+Tasks:
+    Deviding tasks to whom is mainly in charged of.
+    Creating a Git Repo (including uploading the essential folders). 
+    Gathering images and videos we will use for the content of the pages (Home, pet info, two databases).
+    Creating the context of the page for pet-info, such as the bio description, pictures, diary and comments.
+    Branstorming some synamic animations for user-interactions on our website. Perhaps to start out with the pet-info page.
+    Delivering the layout for our home page at least. (who's responsible of?)
+    Start building Databases (maybe go with the user first).
+Note:
+    Ateending the "Drop-in clinic" workshop hold by Matthew Hamilton if any technical issues occurs.
+==========
+Records:
+    Meeting on Thursday, haven't decided when (Maybe after WDW course?!)
+    Yucheng will design the Home page then try to implement it in HTML/CSS later on (this part is undecided)
+    Shin is taking charge of building databases and will start with the user databse.
+    It would be great if Ruting could collect some pictures and short videos for the content of the page "pet info". *Update: Ruting agreeded on this task.
+    Content of the pages includes: Home, Pet info (Me.png), Customization, database (Ownder & Users) and Weekly Pick.
